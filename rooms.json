@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "roomName": "Hyd-T2-10F-4P",
+    "roomLocationId": 1,
+    "roomBuildingId": 2,
+    "roomFloor": 10,
+    "roomSeatingCapacity": 4,
+    "roomDescription": "Hyd-T2-10F-4P desc"
+  },
+  {
+    "id": 2,
+    "roomName": "Hyd-T2-9F-6P",
+    "roomLocationId": 1,
+    "roomBuildingId": 2,
+    "roomFloor": 9,
+    "roomSeatingCapacity": 6,
+    "roomDescription": "Hyd-T2-9F-6P desc"
+  },
+  {
+    "id": 3,
+    "roomName": "Bng-T2-9F-7P",
+    "roomLocationId": 2,
+    "roomBuildingId": 5,
+    "roomFloor": 10,
+    "roomSeatingCapacity": 7,
+    "roomDescription": "Hyd-T2-9F-7P desc"
+  },
+  {
+    "id": 4,
+    "roomName": "Kanchanjangha",
+    "roomLocationId": 2,
+    "roomBuildingId": 5,
+    "roomFloor": 9,
+    "roomSeatingCapacity": 5,
+    "roomDescription": "Bng-T2-9F-7P desc"
+  },
+  {
+    "id": 5,
+    "roomName": "Petunia-ablock-001-4p",
+    "roomLocationId": 2,
+    "roomBuildingId": 6,
+    "roomFloor": 6,
+    "roomSeatingCapacity": 4,
+    "roomDescription": "Petunia-ablock-001-4p desc"
+  },
+  {
+    "id": 6,
+    "roomName": "Petunia-cblock-001-7p",
+    "roomLocationId": 2,
+    "roomBuildingId": 6,
+    "roomFloor": 6,
+    "roomSeatingCapacity": 7,
+    "roomDescription": "Petunia-cblock-001-7p desc"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "locationId": 1,
+    "buildingName": "T1-HYD"
+  },
+  {
+    "id": 2,
+    "locationId": 1,
+    "buildingName": "T2-HYD"
+  },
+  {
+    "id": 3,
+    "locationId": 1,
+    "buildingName": "T3-HYD"
+  },
+  {
+    "id": 4,
+    "locationId": 2,
+    "buildingName": "T1-BNGL"
+  },
+  {
+    "id": 5,
+    "locationId": 2,
+    "buildingName": "T2-BNGL"
+  },
+  {
+    "id": 6,
+    "locationId": 2,
+    "buildingName": "Petunia"
+  },
+  {
+    "id": 7,
+    "locationId": 3,
+    "buildingName": "WF-Chennai"
+  }
+]
